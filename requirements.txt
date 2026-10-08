@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+# Assignment 09 only
+opencv-python
+ultralytics
